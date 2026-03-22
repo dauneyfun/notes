@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Cross-checked behaviour against spec
 - Checked for memory leaks in long-running path
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
+- Verified compatibility with latest runtime version
+- Reviewed open issues, added labels
