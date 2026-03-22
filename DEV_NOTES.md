@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Added CONTRIBUTING.md stub
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-23
+- Noted known limitation in docs
+- Wrote notes on upcoming feature design
